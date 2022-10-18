@@ -4,6 +4,8 @@
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 
+//Este es un nuevo comentario 
+
 function devolverString(str) {
     // "Return" la string provista: str
     // Tu código:
