@@ -20,7 +20,13 @@ Esto instalará todas las dependencias necesarias (lo tienes que hacer solo una 
 
 ```bash
 npm test {nombre del homework}.test.js
+npm t 01 (tienes que estar parado en la carpeta homework y despues escribir este comando `npm t 01`)
 ```
+` npm t 01`
+
+**Aquí 01 o 01-JS-I sería la carpeta madre, donde también se encuentra el test**
+
+
 
 Por ejemplo, para ejecutar los tests del homework 01, ejecuta: `npm test 01-JS-I.test.js`, el del homework 02: `npm test 02-JS-II.test.js`
 y así.
